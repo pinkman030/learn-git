@@ -32,6 +32,8 @@
 	git reset HEAD <file> - git reset HEAD delete.txt 
 	
 #Ignoring files
+	 1.create .gitignore file 
+	 2. write a name of the files that you want to ignore in ".gitignore" file 
 
 
 
