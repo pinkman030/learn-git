@@ -12,9 +12,29 @@
 3. repository
 	where all our snapshots are stored to review/check in future.
 	
-commands
+#Commands in Git
 1. git init
 2. git status
 3. git add
 4. git commit
 5. git log
+
+
+
+
+#Adding multiple files of certain type
+	git add *.<file extension> - eg.git add *.html
+
+#Adding all files in directory (including hidden)
+	git add -A
+	
+#Removing files 
+
+#Ignoring files
+
+
+
+
+
+
+
