@@ -29,7 +29,8 @@
 	git add -A
 	
 #Removing files 
-
+	git reset HEAD <file> - git reset HEAD delete.txt 
+	
 #Ignoring files
 
 
