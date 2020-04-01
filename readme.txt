@@ -4,7 +4,7 @@
 	git is version control system which stores reference point to snapshots of your code
 	this creates linear timeline of your work/project
 	
-states in Git
+#States in Git
 1. working directory
 	an area where all our files and directories and changes are living all the time
 2. staging area
